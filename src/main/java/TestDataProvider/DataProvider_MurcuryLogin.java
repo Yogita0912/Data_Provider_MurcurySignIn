@@ -71,9 +71,9 @@ public class DataProvider_MurcuryLogin
 			  Thread.sleep(2000);
 			  driver.findElement(By.xpath("(//a[contains(text(),'User Login')])[2]")).click ();
 			  Thread.sleep(2000);
-			  driver.findElement(By.id("sign_user_email")).sendKeys(user);
+			  driver.findElement(By.id("sign_user_email")).sendKeys(user);//code to enter emailID
 			 Thread.sleep(2000);
-			 driver.findElement(By.id("sign_user_password")).sendKeys(pass);
+			 driver.findElement(By.id("sign_user_password")).sendKeys(pass);//code to enter password
 			 Thread.sleep(2000);
 			 driver.findElement(By.xpath("(//button[@class='btn btn-lg btn-primary modal-btn ajax-submit'])[1]")).click();
 			 Thread.sleep(3000);
@@ -101,6 +101,7 @@ public class DataProvider_MurcuryLogin
 						Thread.sleep(2000);
 						WebElement logout=driver.findElement(By.xpath("(//a[text()=' Log Out'])[2]"));
 				     logout.click(); 
+				 System.out.println("Logout Successfully");
 			 }
 			 
 			 
