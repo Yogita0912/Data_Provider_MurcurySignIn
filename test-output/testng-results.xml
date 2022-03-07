@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-07T09:38:35 GMT-08:00" name="Default suite" finished-at="2022-03-07T09:39:41 GMT-08:00" duration-ms="66077">
+    <groups>
+    </groups>
+    <test started-at="2022-03-07T09:38:35 GMT-08:00" name="Default test" finished-at="2022-03-07T09:39:41 GMT-08:00" duration-ms="66077">
+      <class name="Murcury_DataProvider">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:38:26 GMT-08:00" name="openbrowser" finished-at="2022-03-07T09:38:35 GMT-08:00" duration-ms="8305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="EnterURL()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:38:35 GMT-08:00" name="EnterURL" finished-at="2022-03-07T09:38:35 GMT-08:00" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterURL -->
+        <test-method is-config="true" signature="MaxBrowser()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:38:35 GMT-08:00" name="MaxBrowser" finished-at="2022-03-07T09:38:35 GMT-08:00" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MaxBrowser -->
+        <test-method is-config="true" signature="GetCookies()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:38:35 GMT-08:00" name="GetCookies" finished-at="2022-03-07T09:38:35 GMT-08:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCookies -->
+        <test-method signature="Murcury(java.lang.String,java.lang.String)[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:38:35 GMT-08:00" name="Murcury" data-provider="dp" finished-at="2022-03-07T09:38:59 GMT-08:00" duration-ms="23838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yogitaithape4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yogita@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Murcury -->
+        <test-method is-config="true" signature="GetScreenshot()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:38:59 GMT-08:00" name="GetScreenshot" finished-at="2022-03-07T09:39:00 GMT-08:00" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetScreenshot -->
+        <test-method is-config="true" signature="GetCookies()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:00 GMT-08:00" name="GetCookies" finished-at="2022-03-07T09:39:00 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCookies -->
+        <test-method signature="Murcury(java.lang.String,java.lang.String)[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:00 GMT-08:00" name="Murcury" data-provider="dp" finished-at="2022-03-07T09:39:22 GMT-08:00" duration-ms="22606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yogitaithape4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yogita@0912]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Murcury -->
+        <test-method is-config="true" signature="GetScreenshot()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:22 GMT-08:00" name="GetScreenshot" finished-at="2022-03-07T09:39:23 GMT-08:00" duration-ms="1094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetScreenshot -->
+        <test-method signature="Murcury(java.lang.String,java.lang.String)[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:23 GMT-08:00" name="Murcury" data-provider="dp" finished-at="2022-03-07T09:39:40 GMT-08:00" duration-ms="16772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yogitaithape4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yogita@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Murcury -->
+        <test-method is-config="true" signature="GetCookies()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:23 GMT-08:00" name="GetCookies" finished-at="2022-03-07T09:39:23 GMT-08:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCookies -->
+        <test-method is-config="true" signature="GetScreenshot()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:40 GMT-08:00" name="GetScreenshot" finished-at="2022-03-07T09:39:41 GMT-08:00" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetScreenshot -->
+        <test-method is-config="true" signature="DleteCookies()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:41 GMT-08:00" name="DleteCookies" finished-at="2022-03-07T09:39:41 GMT-08:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DleteCookies -->
+        <test-method is-config="true" signature="DBCoonnectionClose()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:41 GMT-08:00" name="DBCoonnectionClose" finished-at="2022-03-07T09:39:41 GMT-08:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBCoonnectionClose -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:Murcury_DataProvider@14dd9eb7]" started-at="2022-03-07T09:39:41 GMT-08:00" name="Close" finished-at="2022-03-07T09:39:41 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- Murcury_DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
